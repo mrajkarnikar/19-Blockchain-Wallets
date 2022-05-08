@@ -127,4 +127,3 @@ Now it's time to put it all together and test the Fintech Finder application wit
 ---
 
 © 2021 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
-# 19-Blockchain-Wallets
